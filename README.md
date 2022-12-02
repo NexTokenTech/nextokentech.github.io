@@ -1,6 +1,6 @@
-# Jekyll Doc Theme
+# NexToken Tech Main Site
 
-Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
+Go to [this website](https://jekyllrb.com) for detailed information and docs.
 
 ## Running locally
 
@@ -11,8 +11,8 @@ You need Ruby and gem before starting, then:
 gem install bundler
 
 # clone the project
-git clone https://github.com/aksakalli/jekyll-doc-theme.git
-cd jekyll-doc-theme
+git clone https://github.com/NexTokenTech/nextokentech.github.io.git
+cd nextokentech.github.io
 
 # install dependencies
 bundle install
